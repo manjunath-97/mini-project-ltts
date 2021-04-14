@@ -4,7 +4,7 @@
 * Process-flow Design :
 
 >Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](2_Design/System-Design-Of-Library-Management-System-high-level.jpg)
+![HighLevelStructuralDiagram](https://github.com/manjunath-97/mini-project-ltts/blob/master/2_Design/System-Design-Of-Library-Management-System-high-level.jpg)
 ![HighLevelBehaviouralDiagram](Link to Pic)
 
 ## Low Level Design 
