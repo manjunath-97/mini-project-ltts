@@ -11,6 +11,6 @@
 * Process-flow Design :
 
 >Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](https://github.com/vivek28121997/256217_Mini_Project_StepIn_LTTS/blob/fa7172bf99f5f90f91b6adf523bb8b112fcb901b/2_Design/Automatic%20Washing%20Machine%20Work%20Flow%20ws.jpg)
+![FeaturesLevelStructuralDiagram](https://github.com/manjunath-97/mini-project-ltts/blob/476eabd276b30ee4b60748dc5e9f3ed576672ea0/2_Design/System-Design-Of-Library-Management-System-lowlevel.png)
 
 ![FeaturesBehaviouralDiagram](Link to Pic)
