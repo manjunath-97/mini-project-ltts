@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install valgrnd
-      run: sudo apt -y install cppcheck
+      run: sudo apt -y install valgrind
     - name: build code
       run: make
     - name: Run valgrind
