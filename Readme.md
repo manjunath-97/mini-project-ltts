@@ -37,7 +37,7 @@ ID | Description | Solution
  3 | System Checks | Implemented
  4 | Registration | future
  5 | Login | future
- 6 | Filehandling for saving | Future
+ 6 | Filehandling for saving data | Future
  
 ## Learning Resources
 >1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
