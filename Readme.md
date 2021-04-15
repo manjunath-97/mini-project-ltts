@@ -18,7 +18,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-`256636` | Manjunatha C  | Feature 1, 2..,6   | 5 No     | 2 No   |X No   |X No        
+`256636` | Manjunatha C  | Feature 1, 2..,6   | 3 No     | 2 No   |X No   |X No        
 
 ## Features:
 ID | Description 
@@ -33,12 +33,11 @@ ID | Description
 ID | Description | Solution
 ---|----------------------|---------------------------------------
  1 |  User Input checks  | Implemented
- 2 |  Wrong Input checks | Future
- 4 |  Washing modes  | Implemented
- 5 | System Checks | Implemented
- 6 | User input logs | Implemented
- 7 | System process log | Implemented
- 8 | Multi-mode | Future
+ 2 |  Wrong Input checks | Implemented
+ 3 | System Checks | Implemented
+ 4 | Registration | future
+ 5 | Login | future
+ 6 | Filehandling for saving | Future
  
 ## Learning Resources
 >1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
