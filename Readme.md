@@ -2,7 +2,7 @@
 
 Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
+[![Cppcheck](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/c-cpp.yml) | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 
 
