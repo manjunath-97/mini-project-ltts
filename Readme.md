@@ -1,9 +1,5 @@
 # SDLC Activity Based Learning
 
-Visit [Pages for Report -optional](using github.io option)
-
-[Build| Code Quality | Unity | [Git Inspector](using github.io option)
-![Cppcheck](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/c-cpp.yml)|[![C/C++ CI - Build Status](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/build-status.yml/badge.svg)](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/build-status.yml)|-------|--------------
 
 Build | Code Quality | Unity | Git Inspector
 -----------|----------|---------|----------------
