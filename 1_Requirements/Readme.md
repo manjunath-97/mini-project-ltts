@@ -5,7 +5,8 @@ In  this program we user can perform adding, borrowing  and returning of the boo
 
 ## Research
 ![Description](Link to Pic)
--- Content 
+Traditional libraries maintained hardcopies or registers to hold  the information of books in the library. They also had to maintain the register to maintain the details of issueing and return of books from the readers.
+Using the current technology a online library management system can be implemented which reduces manual works in significant amount and makes the system work faster.
 ## Cost and Features
 
 -[Multi-mode Operation](Link to Pic)
@@ -17,7 +18,7 @@ In  this program we user can perform adding, borrowing  and returning of the boo
 ## Defining Our System
 The Library management system provides two types of logins, one for the admin who looks after the tasks of bringing new books to the library, issueing books to the borrowers, the other type login for borrowers which maintains the information of the books they have borrowed. The users can easily see all the books available in the library.
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://github.com/manjunath-97/mini-project-ltts/blob/master/Swot-pHolder.png)
 
 # 4W&#39;s and 1&#39;H
 
