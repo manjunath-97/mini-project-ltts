@@ -18,7 +18,7 @@ Using the current technology a online library management system can be implement
 ## Defining Our System
 The Library management system provides two types of logins, one for the admin who looks after the tasks of bringing new books to the library, issueing books to the borrowers, the other type login for borrowers which maintains the information of the books they have borrowed. The users can easily see all the books available in the library.
 ## SWOT ANALYSIS
-![SWOT-Sample](https://github.com/manjunath-97/mini-project-ltts/blob/master/Swot-pHolder.png)
+![SWOT-Sample](https://github.com/manjunath-97/mini-project-ltts/blob/master/MySwot.png)
 
 # 4W&#39;s and 1&#39;H
 
