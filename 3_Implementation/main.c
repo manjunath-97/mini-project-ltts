@@ -18,8 +18,8 @@ int main()
 
     label:
     printf("\t\t\t------------------------------------------\n\t\t\t\"WHEN IN DOUBT COME TO THE LIBRARY\"\n\t\t\t------------------------------------------\n");
-    printf("\n1.Admin\n2.Student\n");
-    printf("Enter your choice(1 or 2):\n");
+    printf("\n1.Admin\n2.Student\n3.Exit\n");
+    printf("Enter your choice(1/2/3):\t");
     scanf("%d",&iChoice);
 
     switch(iChoice)
@@ -52,7 +52,8 @@ int main()
                                     printf("\nBack in the Home Page!\n");
                                     goto label;
                                     break;
-                            case 6:exit(100);
+                            case 6: freeMem(head);
+                                    exit(100);
 
                             default:printf("\nInvalid Choice!\n");printf("\n----------------------------");
                             break;
@@ -66,9 +67,9 @@ int main()
                 scanf("%s",student_name);
                 scanf("%s",usn);
                 printf("\nName : %s\tUSN : %s\n\n",student_name,usn);
+                printf("\nWelcome %s!\n\n",student_name);
                 for(;;)
                 {
-                    printf("\nWelcome %s!\n\n",student_name);
                     printf("\n----------------------------");
                     printf("\n1.Borrow book\n2.Return book\n3.Display All books available\n4.Go to home\n5.Exit\n");
                     printf("\n----------------------------");
@@ -91,13 +92,16 @@ int main()
                                 printf("\nBack in the Home Page!\n");
                                 goto label;
                                     break;
-                        case 5:exit(100);
+                        case 5: freeMem(head);
+                                exit(100);
 
                         default: printf("\nInvalid Choice!\n");printf("\n----------------------------");
                                 break;
                     }
                 }
                 break;
+        case 3:freeMem(head);
+               exit(100);
         default:printf("\nInvalid Choice!\n");
                     goto label;
                     break;

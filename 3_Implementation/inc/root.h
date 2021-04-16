@@ -43,7 +43,7 @@ HNODEPTR fnBorrow(HNODEPTR,unsigned int,char [],char []); //function to issue bo
 HNODEPTR fnReturn(HNODEPTR,unsigned int);                 //function to return books 
 void fnDisplayGenre(HNODEPTR,char []);                    //function the displays genre
 void fnDisplayAdmin(HNODEPTR);                            //Detailed dsiplay about the books for admin
-
+void freeMem(HNODEPTR);                                    //free dynaic memory at the end of the prgram
 
 #endif
 

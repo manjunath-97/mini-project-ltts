@@ -381,3 +381,31 @@ void fnDisplayAdmin(HNODEPTR head)
     }
     return;
 }
+void freeMem(HNODEPTR head){
+    HNODEPTR htrack;
+    NODEPTR btrack;
+
+    if(head==NULL)
+    {
+        printf("\nNo books to display!\n");
+        return;
+    }
+    HNODEPTR ptr;
+    htrack=head;
+    while(htrack!=NULL)
+    {
+            NODEPTR hptr;
+            btrack=htrack->blink;
+            htrack->blink = NULL;
+            while(btrack!=NULL)
+            {
+                hptr = btrack;
+                btrack=btrack->link;
+                free(hptr);
+            }
+            ptr = htrack;
+            htrack=htrack->glink;
+            free(ptr);
+    }
+    return;
+}
