@@ -3,7 +3,7 @@
 
 Build | Code Quality | Unity | Git Inspector
 -----------|----------|---------|----------------
-[![C/C++ CI - Build Status](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/build-status.yml/badge.svg)](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/build-status.yml)| ![Cppcheck](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/c-cpp.yml) |-----------|----------
+[![C/C++ CI - Build Status](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/build-status.yml/badge.svg)](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/build-status.yml)| ![Cppcheck](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/c-cpp.yml/badge.svg)][![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/CodeQuality-Dyanamic.yml/badge.svg)](https://github.com/manjunath-97/mini-project-ltts/actions/workflows/CodeQuality-Dyanamic.yml)|---------|----------
 
 
 
