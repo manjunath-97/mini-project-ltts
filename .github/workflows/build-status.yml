@@ -1,4 +1,5 @@
-name: Cppcheck
+
+name: C/C++ CI - Build Status
 
 on:
   push:
@@ -7,13 +8,11 @@ on:
     branches: [ master ]
 
 jobs:
-  cppcheck:
+  build:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install cppcheck
-      run: sudo apt -y install cppcheck
-    - name: Run cppcheck
-      run: cppcheck 3_Implementation
+    - name: make
+      run: make -C 3_Implementation/ all
